@@ -12,8 +12,8 @@ Steps:
 Any online C compiler, or VS Code, or
 Code::Blocks, Dev-C++, or
 Any C compiler of your choice.
-OR
-You can also use GITHUB WORKSPACES TO RUN THE CODE.
+(OR)
+You can you can also download the zip file to run it. Click on GPACalculatorSEM1.c to view the code more efficiently.
 
 
 -Subjects Included in GPA Calculation:-
