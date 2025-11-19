@@ -12,6 +12,8 @@ Steps:
 Any online C compiler, or VS Code, or
 Code::Blocks, Dev-C++, or
 Any C compiler of your choice.
+OR
+You can also use GITHUB WORKSPACES TO RUN THE CODE.
 
 
 -Subjects Included in GPA Calculation:-
